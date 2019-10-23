@@ -1,3 +1,3 @@
 type doh.txt
-npm start
-type why.txt
+call npm start
+cmd /k

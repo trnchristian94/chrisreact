@@ -2,7 +2,7 @@
   "name": "cvchris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://trnchristian94.github.io/cvchris",
+  "homepage": "https://trnchristian94.github.io/chrisreact/",
   "dependencies": {
     "@types/jest": "24.0.19",
     "@types/node": "12.11.2",

@@ -1,5 +1,5 @@
 type doh.txt
-npm install
+call npm install
 echo installing
-npm start
 type why.txt
+cmd /k
