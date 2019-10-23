@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chrisreact/static/css/main.dfca195d.chunk.css",
+    "main.js": "/chrisreact/static/js/main.fa8ae035.chunk.js",
+    "main.js.map": "/chrisreact/static/js/main.fa8ae035.chunk.js.map",
+    "runtime-main.js": "/chrisreact/static/js/runtime-main.2e6517a5.js",
+    "runtime-main.js.map": "/chrisreact/static/js/runtime-main.2e6517a5.js.map",
+    "static/css/2.0624914a.chunk.css": "/chrisreact/static/css/2.0624914a.chunk.css",
+    "static/js/2.1e2cc5d2.chunk.js": "/chrisreact/static/js/2.1e2cc5d2.chunk.js",
+    "static/js/2.1e2cc5d2.chunk.js.map": "/chrisreact/static/js/2.1e2cc5d2.chunk.js.map",
+    "index.html": "/chrisreact/index.html",
+    "precache-manifest.b1942b118d7dea9a7ce64cb572514c78.js": "/chrisreact/precache-manifest.b1942b118d7dea9a7ce64cb572514c78.js",
+    "service-worker.js": "/chrisreact/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/chrisreact/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.dfca195d.chunk.css.map": "/chrisreact/static/css/main.dfca195d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6517a5.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.1e2cc5d2.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.fa8ae035.chunk.js"
+  ]
+}
