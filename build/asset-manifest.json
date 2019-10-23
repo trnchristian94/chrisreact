@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cvchris/static/css/main.dfca195d.chunk.css",
+    "main.js": "/cvchris/static/js/main.8c2bba4e.chunk.js",
+    "main.js.map": "/cvchris/static/js/main.8c2bba4e.chunk.js.map",
+    "runtime-main.js": "/cvchris/static/js/runtime-main.f5783e1d.js",
+    "runtime-main.js.map": "/cvchris/static/js/runtime-main.f5783e1d.js.map",
+    "static/css/2.0624914a.chunk.css": "/cvchris/static/css/2.0624914a.chunk.css",
+    "static/js/2.1e2cc5d2.chunk.js": "/cvchris/static/js/2.1e2cc5d2.chunk.js",
+    "static/js/2.1e2cc5d2.chunk.js.map": "/cvchris/static/js/2.1e2cc5d2.chunk.js.map",
+    "index.html": "/cvchris/index.html",
+    "precache-manifest.a0a73241dd50f1c2f4969a5d1e022b85.js": "/cvchris/precache-manifest.a0a73241dd50f1c2f4969a5d1e022b85.js",
+    "service-worker.js": "/cvchris/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/cvchris/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.dfca195d.chunk.css.map": "/cvchris/static/css/main.dfca195d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5783e1d.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.1e2cc5d2.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.8c2bba4e.chunk.js"
+  ]
+}
