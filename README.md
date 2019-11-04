@@ -1,4 +1,11 @@
-## Notes + Installed modules
+### What do we need
+Git
+Node.js
+
+### What do we have
+React Typescript + bootstrap + github version control
+
+### Notes + Installed modules
 npx create-react-app app_name --typescript
 npm install react-router-dom
 npm install @types/react-router-dom
