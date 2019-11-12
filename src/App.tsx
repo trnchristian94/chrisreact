@@ -18,6 +18,9 @@ const App: React.FC = () => {
             <Route path="/contact" component={Contact} />
             <Route path="/about" component={About} />
           </Switch>
+          <div>
+          Currently using React {React.version}
+          </div>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
